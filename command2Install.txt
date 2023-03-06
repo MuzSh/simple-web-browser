@@ -1,0 +1,11 @@
+pip install bs4
+pip install html5lib
+pip install lxml
+pip install random
+pip install os
+pip install pyfiglet
+pip install requests
+pip install urllib
+pip install urllib2
+pip install geopy
+pip install bs4
